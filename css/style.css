@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Varela+Round&display=swap');
+
+body {
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/Diseño\ fondo.png);
+
+
+
+}
+
+.edificio {
+    background-size: cover;
+    background-image: url(../img/Imagen\ edificio.png);
+
+}
+
+.tamLogo {
+    width: 200px;
+}
+
+.flexNav{
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
+   
+}
+
+
+.flexHeader{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.logo {
+   
+    display: inline-block;
+    
+   
+    
+    
+}
+
+.navegacion {
+    
+    padding-left: 700px;
+
+}
+
+.buscador {
+   
+    margin-top: 50px;
+    margin-right: 30px;
+   
+    
+
+}
+
+.busquedasInternas {
+    display: inline-block;
+    margin-left: 900px;
+    margin-top: 170px;
+    background-color: rgba(0, 255, 255, 0);
+    position: absolute;
+
+
+
+}
+
+
+
+.navDos {
+    color: aliceblue;
+}
